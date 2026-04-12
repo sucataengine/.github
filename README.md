@@ -1,3 +1,5 @@
+> This repository has only the installer of the sucata engine, with you want to learn more about it you can see [sucata-player](https://codeberg.org/sucata/sucata-player) and [sucata-cli](https://codeberg.org/sucata/sucata-cli)
+
 <div align="center">
     <img src="assets/sucata.png" height="150" width="150" />
 </div>
