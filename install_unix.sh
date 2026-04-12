@@ -41,7 +41,7 @@ else
   exit 1
 fi
 
-SUCATA_VERSION="0.2.1"
+SUCATA_VERSION=$(curl -s https://codeberg.org/sucata/sucata/raw/branch/main/VERSION)
 SUCATA="sucata"
 SUCATA_PLAYER="sucata-player"
 SUCATA_URL="https://codeberg.org/sucata/sucata/releases/download/$SUCATA_VERSION/$TARGET.zip"
