@@ -3,3 +3,5 @@ sucata
 sucata-player
 sucata-player.exe
 *.dll
+
+sokol-shdc/**/*
