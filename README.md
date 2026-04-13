@@ -76,7 +76,7 @@ irm https://codeberg.org/sucata/sucata/raw/branch/main/install_windows.ps1 | iex
 1. Install the [sumneko lua extension](https://luals.github.io/) on your favorite IDE
 2. Open the Addon Manager
 3. Search for 'sucata' and install
-> You can see the manual instalation [here](https://github.com/gumpdev/sucata-lua-addon)
+> You can see the manual instalation [here](https://codeberg.org/sucata/meteors-sucata)
 
 <br>
 <a id="getting-started"></a>
