@@ -125,6 +125,6 @@ Some libraries used in Sucata Game Engine:
 
 ## 🤔 FAQ
 
-- **I Found a BUG!** _[Click here](https://github.com/gumpdev/sucata/issues) and open an issue_
+- **I Found a BUG!** _[Click here](https://github.com/sucataengine/.github/issues) and open an issue_
 - **Can I help with the project?** _Sure! just send your PR or idea_
 - **Can I contact you?** _Yep, send email to contact@gump.dev_
