@@ -1,4 +1,4 @@
-> This repository has only the installer of the sucata engine, with you want to learn more about it you can see [sucata-player](https://codeberg.org/sucata/sucata-player) and [sucata-cli](https://codeberg.org/sucata/sucata-cli)
+> This repository has only the installer of the sucata engine, with you want to learn more about it you can see [sucata-player](https://github.com/sucataengine/sucata-player) and [sucata-cli](https://github.com/sucataengine/sucata-cli)
 
 <div align="center">
     <img src="../assets/sucata.png" height="150" width="150" />
@@ -76,7 +76,7 @@ irm https://raw.githubusercontent.com/sucataengine/.github/refs/heads/main/insta
 1. Install the [sumneko lua extension](https://luals.github.io/) on your favorite IDE
 2. Open the Addon Manager
 3. Search for 'sucata' and install
-> You can see the manual instalation [here](https://codeberg.org/sucata/meteors-sucata)
+> You can see the manual instalation [here](https://github.com/sucataengine/meteors-sucata)
 
 <br>
 <a id="getting-started"></a>
