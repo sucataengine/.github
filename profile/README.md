@@ -1,7 +1,7 @@
 > This repository has only the installer of the sucata engine, with you want to learn more about it you can see [sucata-player](https://codeberg.org/sucata/sucata-player) and [sucata-cli](https://codeberg.org/sucata/sucata-cli)
 
 <div align="center">
-    <img src="assets/sucata.png" height="150" width="150" />
+    <img src="../assets/sucata.png" height="150" width="150" />
 </div>
 
 <h1 align="center">Sucata</h1>
@@ -64,12 +64,12 @@ The goal is to make a create game experience similar good and smooth using only 
 
 ### MacOS/Linux
 ```sh
-curl -fsSL https://codeberg.org/sucata/sucata/raw/branch/main/install_unix.sh | bash
+curl -fsSL https://raw.githubusercontent.com/sucataengine/.github/refs/heads/main/install_unix.sh | bash
 ```
 
 ### Windows
 ```sh
-irm https://codeberg.org/sucata/sucata/raw/branch/main/install_windows.ps1 | iex
+irm https://raw.githubusercontent.com/sucataengine/.github/refs/heads/main/install_windows.ps1 | iex
 ```
 
 ### Installing the Sucata Addon
