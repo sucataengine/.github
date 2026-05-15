@@ -41,10 +41,10 @@ else
   exit 1
 fi
 
-SUCATA_VERSION=$(curl -s https://github.com/sucataengine/.github/raw/branch/main/VERSION)
+SUCATA_VERSION=$(curl -s https://github.com/sucata-engine/sucata-engine/raw/branch/main/VERSION)
 SUCATA="sucata"
 SUCATA_PLAYER="sucata-player"
-SUCATA_URL="https://github.com/sucataengine/.github/releases/download/$SUCATA_VERSION/$TARGET.zip"
+SUCATA_URL="https://github.com/sucata-engine/sucata-engine/releases/download/$SUCATA_VERSION/$TARGET.zip"
 SUCATA_DIR="$HOME/sucata"
 SUCATA_TEMP_ZIP="$SUCATA_DIR/temp.zip"
 SUCATA_BIN="$SUCATA_DIR/$SUCATA"

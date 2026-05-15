@@ -1,7 +1,7 @@
-> This repository has only the installer of the sucata engine, with you want to learn more about it you can see [sucata-player](https://github.com/sucataengine/sucata-player) and [sucata-cli](https://github.com/sucataengine/sucata-cli)
+> This repository has only the installer of the sucata engine, with you want to learn more about it you can see [sucata-player](https://github.com/sucata-enginesucata-player) and [sucata-cli](https://github.com/sucata-enginesucata-cli)
 
 <div align="center">
-    <img src="../assets/sucata.png" height="150" width="150" />
+    <img src="assets/sucata.png" height="150" width="150" />
 </div>
 
 <h1 align="center">Sucata</h1>
@@ -64,19 +64,19 @@ The goal is to make a create game experience similar good and smooth using only 
 
 ### MacOS/Linux
 ```sh
-curl -fsSL https://raw.githubusercontent.com/sucataengine/.github/refs/heads/main/install_unix.sh | bash
+curl -fsSL https://raw.githubusercontent.com/sucata-engine/sucata-engine/refs/heads/main/install_unix.sh | bash
 ```
 
 ### Windows
 ```sh
-irm https://raw.githubusercontent.com/sucataengine/.github/refs/heads/main/install_windows.ps1 | iex
+irm https://raw.githubusercontent.com/sucata-engine/sucata-engine/refs/heads/main/install_windows.ps1 | iex
 ```
 
 ### Installing the Sucata Addon
 1. Install the [sumneko lua extension](https://luals.github.io/) on your favorite IDE
 2. Open the Addon Manager
 3. Search for 'sucata' and install
-> You can see the manual instalation [here](https://github.com/sucataengine/meteors-sucata)
+> You can see the manual instalation [here](https://github.com/sucata-enginemeteors-sucata)
 
 <br>
 <a id="getting-started"></a>
@@ -125,6 +125,6 @@ Some libraries used in Sucata Game Engine:
 
 ## 🤔 FAQ
 
-- **I Found a BUG!** _[Click here](https://github.com/sucataengine/.github/issues) and open an issue_
+- **I Found a BUG!** _[Click here](https://github.com/sucata-engine.github/issues) and open an issue_
 - **Can I help with the project?** _Sure! just send your PR or idea_
 - **Can I contact you?** _Yep, send email to contact@gump.dev_
