@@ -76,7 +76,7 @@ irm https://raw.githubusercontent.com/sucata-engine/sucata-engine/refs/heads/mai
 1. Install the [sumneko lua extension](https://luals.github.io/) on your favorite IDE
 2. Open the Addon Manager
 3. Search for 'sucata' and install
-> You can see the manual instalation [here](https://github.com/sucata-enginemeteors-sucata)
+> You can see the manual instalation [here](https://github.com/sucata-engine/meteors-sucata)
 
 <br>
 <a id="getting-started"></a>
